@@ -1,0 +1,8 @@
+body {text-align: center;}
+form {display: inline-block;}
+p{font-family:"Times New Roman", serif;
+letter-spacing: 1px;background-color:#f1f1f1;margin-bottom:5px;margin-top:5px;}
+legend{margin-top:10px;border:1px solid #444;padding:5px;margin-bottom:15px;background-color:#f1f1f1;}
+fieldset{width:400px;margin-left:20px;border:1px solid #444;padding:5px;}
+input{width:220px;}
+option{width:220px;}
