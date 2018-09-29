@@ -1,0 +1,28 @@
+{
+  "name": "storydrop",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "",
+  "bugs": {
+    "url" : "https://github.com/owner/project/issues",
+    "email" : "project@hostname.com"
+  },
+  "license": "SEE LICENSE IN 'LICENSE' file",
+  "private": true,
+  "author": {
+    "name" : "Suriyaa R. Sundararuban",
+    "email" : "suriyaa.sundararuban@tum.de",
+    "url" : "https://about.suriyaa.tk/"
+  }
+  "devDependencies": {
+    "all-contributors-cli": "^5.4.0"
+  },
+  "scripts": {
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SuriyaaKudoIsc/storydrop"
+  }
+}
