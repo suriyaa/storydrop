@@ -1,0 +1,11 @@
+{
+  "projectName": "storydrop",
+  "projectOwner": "SuriyaaKudoIsc",
+  "files": [
+    "CONTRIBUTORS.md"
+  ],
+  "imageSize": 100,
+  "contributorsPerLine": 6,
+  "commit": false,
+  "repoType": "github"
+}
