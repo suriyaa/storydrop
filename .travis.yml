@@ -1,0 +1,13 @@
+# .travis.yml - Travis CI Configuration file
+language: php
+
+php:
+  - '5.4'
+  - '5.6'
+  - '7.0'
+  - '7.1'
+  - hhvm
+  - nightly
+
+script:
+  - echo 'No tests for Travis CI...'
