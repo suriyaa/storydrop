@@ -37,7 +37,7 @@
     <img alt="PRs Welcome" title="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
   </a>
   <a href="https://github.com/SuriyaaKudoIsc/storydrop/issues">
-    <img alt="GitHub issues" title="GitHub issues" src="https://img.shields.io/github/issues-pr-raw/SuriyaaKudoIsc/storydrop.svg?style=flat-square">
+    <img alt="GitHub issues" title="GitHub issues" src="https://img.shields.io/github/issues-raw/SuriyaaKudoIsc/storydrop.svg?style=flat-square">
   </a>
   <a href="https://github.com/SuriyaaKudoIsc/storydrop/pulls">
     <img alt="GitHub pull requests" title="GitHub pull requests" src="https://img.shields.io/github/issues-pr-raw/SuriyaaKudoIsc/storydrop.svg?style=flat-square">
