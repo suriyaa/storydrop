@@ -19,8 +19,8 @@
   <a href="https://travis-ci.org/SuriyaaKudoIsc/storydrop">
     <img alt="Travis CI Build Status" title="Travis CI Build Status" src="https://img.shields.io/travis/SuriyaaKudoIsc/storydrop.svg?style=flat-square">
   </a>
-  <a href="https://coveralls.io/github/SuriyaaKudoIsc/storydrop">
-    <img alt="CircleCI Build Status" title="CircleCI Build Status" src="https://img.shields.io/circleci/project/:vcsType/:owner/:repo.svg?style=flat-square">
+  <a href="https://circleci.com/gh/SuriyaaKudoIsc/storydrop">
+    <img alt="CircleCI Build Status" title="CircleCI Build Status" src="https://img.shields.io/circleci/project/github/SuriyaaKudoIsc/storydrop.svg?style=flat-square">
   </a>
   <br />
   <br />
