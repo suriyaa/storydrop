@@ -163,7 +163,7 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 
 Thanks for supporting me:
 
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/EdX.svg/1280px-EdX.svg.png" width="160px;"/><br /><sub><b>edX.org</b>](https://www.edx.org/)</sub><br /><sub>(MOOC)</sub> | [<img src="https://www.tum.de/typo3conf/ext/in2template/Resources/Public/Images/tum-logo.svg" width="160px;"/><br /><sub><b>Technische Universität München</b></sub>](https://www.tum.de/) | [<img src="https://upload.wikimedia.org/wikipedia/en/2/29/Harvard_shield_wreath.svg" width="120px;"/><br /><sub><b>Harvard University</b></sub>](https://www.harvard.edu/) | [<img src="https://cs.harvard.edu/malan/malan6.jpg" width="140px;"/><br /><sub><b>David J. Malan</b>](https://cs.harvard.edu/malan/)</sub><br /><sub>(Harvard's CS50 Professor)</sub> |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/EdX.svg/1280px-EdX.svg.png" width="160px;"/><br /><sub><b>edX.org</b>](https://www.edx.org/)</sub><br /><sub>(MOOC)</sub> | [<img src="https://www.tum.de/typo3conf/ext/in2template/Resources/Public/Images/tum-logo.svg" width="160px;"/><br /><sub><b>Technische Universität München</b></sub>](https://www.tum.de/) | [<img src="https://upload.wikimedia.org/wikipedia/en/2/29/Harvard_shield_wreath.svg" width="120px;"/><br /><sub><b>Harvard University</b></sub>](https://www.harvard.edu/) | [<img src="https://avatars.githubusercontent.com/u/788678" width="140px;"/><br /><sub><b>David J. Malan</b>](https://cs.harvard.edu/malan/)</sub><br /><sub>(Harvard's CS50 Professor)</sub> |
 |:-:|:-:|:-:|:-:|
 | [Financial Assistance][edxfinance] | For being a [TUM][tumcampus] student | Make [CS50][cs50] available worldwide | Explains very comprehensible |
 
